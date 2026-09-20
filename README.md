@@ -1,12 +1,12 @@
 # SarahVon
 
-**GIS, spatial analysis, and data storytelling**
+**Data, maps, and networks made easier to explore**
 
 ---
 
 ### Summary
 
-I use GIS, spatial analysis, network methods, and data visualization to turn location-based and relationship-based data into clear, careful stories. My projects include map-based screening, transit visualization, community-detection analysis, and interactive dashboards, with an emphasis on transparent methods and documented limitations.
+I use data to investigate questions, identify patterns, and communicate findings clearly. My work spans data visualization, spatial analysis, and GIS, with an emphasis on data integrity and responsible interpretation. I value the problem-solving involved in moving from an initial question to a useful result, and I’m continuing to develop my skills in data science and visual communication.
 
 ---
 
