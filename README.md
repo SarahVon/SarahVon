@@ -18,21 +18,21 @@ I use GIS, spatial analysis, network methods, and data visualization to turn loc
 
 ---
 
-### Network Analysis
-
-| Project | Description | Type / Stack |
-|---------|-------------|--------------|
-| [Community Detection Methods](https://github.com/SarahVon/community-detection-methods) · [Live Posit demonstration](https://01a0bbd5-5c89-a860-3c73-6fdd567d84b2.share.connect.posit.cloud/) | R/igraph comparison of Fast Greedy, Edge Betweenness, and Louvain methods on a weighted Golden-crowned Sparrow association network. | Network analysis · R · igraph · asnipe |
-| [Centrality Network Analysis](https://github.com/SarahVon/centrality-network-analysis) | Exploratory directed teacher-friendship network analysis using igraph, cohesion measures, and in-degree and betweenness visualizations. | Network analysis · R · igraph |
-
----
-
 ### Spatial & GIS Projects
 
 | Project | Description | Type / Stack |
 |---------|-------------|--------------|
 | [Hugo Campground Site Screening](https://github.com/SarahVon/hugo-campground-site-screening) | GIS screening workflow near Hugo, Minnesota, combining road proximity, lake proximity, and mapped land-ownership filters to identify areas for further review. | Spatial analysis · ArcGIS Pro |
 | [South King Link Light Rail Corridor Map](https://github.com/SarahVon/south-king-link-light-rail-map) | Historical map of Link light rail stations and rail-segment status from Tukwila International Boulevard Station to Federal Way Downtown Station, using data dated January 31, 2025. | Cartography · ArcGIS Pro |
+
+---
+
+### Network Analysis
+
+| Project | Description | Type / Stack |
+|---------|-------------|--------------|
+| [Community Detection Methods](https://github.com/SarahVon/community-detection-methods) · [Live Posit demonstration](https://01a0bbd5-5c89-a860-3c73-6fdd567d84b2.share.connect.posit.cloud/) | R/igraph comparison of Fast Greedy, Edge Betweenness, and Louvain methods on a weighted Golden-crowned Sparrow association network. | Network analysis · R · igraph · asnipe |
+| [Centrality Network Analysis](https://github.com/SarahVon/centrality-network-analysis) | Exploratory directed teacher-friendship network analysis using igraph, cohesion measures, and in-degree and betweenness visualizations. | Network analysis · R · igraph |
 
 ---
 
