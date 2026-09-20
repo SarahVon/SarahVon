@@ -48,7 +48,7 @@ I use GIS, spatial analysis, network methods, and data visualization to turn loc
 
 ### Technical Skills
 
-`GIS` · `ArcGIS Pro` · `Spatial Analysis` · `R` · `R Markdown` · `igraph` · `asnipe` · `Network Analysis` · `Data Visualization` · `Interactive Dashboards` · `Map Design` · `HTML`· `Python`· `Java`· `SQL`· `Tableau`· `Excel`· `Power BI`· 
+`GIS` · `ArcGIS Pro` · `Spatial Analysis` · `R` · `R Markdown` · `igraph` · `asnipe` · `Network Analysis` · `Data Visualization` · `Interactive Dashboards` · `Map Design` · `HTML`· `Python`· `Java`· `SQL`· `Tableau`· `Excel`· `Power BI`
 ---
 
 ### Data Sharing Note
