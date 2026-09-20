@@ -1,4 +1,4 @@
-# Sarah Von
+# SarahVon
 
 **GIS, spatial analysis, and data storytelling**
 
