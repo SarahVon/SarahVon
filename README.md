@@ -42,13 +42,6 @@ I use GIS, spatial analysis, network methods, and data visualization to turn loc
 |---------|-------------|--------------|
 | [Bivariate & Uncertainty Dashboard](https://github.com/SarahVon/bivariate-uncertainty-dashboard) | Static King County crime dashboard combining bivariate correlation views, uncertainty bands, and a city-level ten-year average crime map. | Dashboard · Data visualization |
 | [Spatial and Temporal Dashboard](https://github.com/SarahVon/spatial-and-temporal-dashboard) | Static global temperature dashboard comparing 30-year regional averages with a choropleth, time series, and monthly differences from 1901–2016. | Dashboard · Data visualization |
-
----
-
-### NYC 311 Data Challenge 2025
-
-| Project | Description | Type / Stack |
-|---------|-------------|--------------|
 | [NYC 311 Data Challenge 2025](https://github.com/SarahVon/NYC-311-DATA-CHALLENGE-2025) | Group project: interactive dashboard exploring NYC 311 service requests across boroughs, complaint categories, reporting channels, agencies, parks, and response times. | Dashboard · Data visualization |
 
 ---
