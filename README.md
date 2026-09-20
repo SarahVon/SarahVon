@@ -14,7 +14,7 @@ I use GIS, spatial analysis, network methods, and data visualization to turn loc
 
 | Project | Description | Type / Stack |
 |---------|-------------|--------------|
-| [Seattle Pest Control Service Patterns](https://github.com/SarahVon/seattle-pest-control-service-patterns) · [Live Posit demonstration](https://01a0bc03-40b2-ca8c-6045-21517970ca76.share.connect.posit.cloud/) | Interactive analysis of Seattle pest activity in 2023. | R · Posit publication · Read-only demonstration |
+| [Seattle Pest Control Service Patterns](https://github.com/SarahVon/seattle-pest-control-service-patterns) · [Live Posit demonstration](https://01a0bc03-40b2-ca8c-6045-21517970ca76.share.connect.posit.cloud/) | Interactive analysis of Seattle pest activity in 2023. | R · Posit publication |
 
 ---
 
