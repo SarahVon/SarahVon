@@ -1,39 +1,24 @@
-# Sarah Anderson
+# Sarah Von — GIS, spatial analysis, and data storytelling
 
-**Data Visualization · R · Interactive Analytics**
+I use GIS, spatial analysis, and data visualization to turn location-based data into clear, careful stories. My portfolio highlights selected projects in spatial analysis, network methods, and exploratory storytelling.
 
-I build data-driven tools that turn complex datasets into clear, interactive experiences. My work combines statistical analysis, visualization, and thoughtful interface design to help people explore patterns and make sense of real-world data.
+## Featured projects
 
----
+- **[Hugo Campground Site Screening](https://github.com/SarahVon/hugo-campground-site-screening)** — Case-study placeholder for a GIS screening workflow near Hugo, Minnesota, using road proximity, lake proximity, and land-ownership filters. Public repository and final project details should be confirmed before publishing.
+- **[South King Link Light Rail Corridor Map](https://github.com/SarahVon/south-king-link-light-rail-map)** — Case-study placeholder for a January 2025 historical map of station and rail-segment status in South King County. Public repository and final project details should be confirmed before publishing.
+- **[Community Detection Methods](https://github.com/SarahVon/community-detection-methods)** — Case-study placeholder for an R/igraph comparison of Fast Greedy, Edge Betweenness, and Louvain methods on a weighted network. Public repository and final project details should be confirmed before publishing.
+- **[NYC 311 Data Challenge 2025](https://github.com/SarahVon/NYC-311-DATA-CHALLENGE-2025)** — Interactive dashboard exploring NYC 311 service requests across boroughs, complaint categories, reporting channels, agencies, parks, and response times.
 
-### Featured Project
+## Additional case studies
 
-| Project | Description | Stack | Links |
-|---------|-------------|-------|-------|
-| [NYC 311 Complaints Dashboard](https://github.com/SarahVon/NYC-311-DATA-CHALLENGE-2025) | Interactive dashboard exploring NYC service requests across boroughs, complaint categories, reporting channels, agencies, parks, and response times. | R, Shiny, Tidyverse, Plotly, Leaflet | [Live Dashboard](https://sarahvon.shinyapps.io/NYC-311-DASHBOARD-SAMM/) |
+- **[Bivariate & Uncertainty Dashboard](https://github.com/SarahVon/bivariate-uncertainty-dashboard)** — Case-study placeholder; verify the public URL and data-sharing permissions before publishing.
+- **[Spatial and Temporal Dashboard](https://github.com/SarahVon/spatial-and-temporal-dashboard)** — Case-study placeholder; verify the public URL and data-sharing permissions before publishing.
+- **[Centrality](https://github.com/SarahVon/centrality)** — Case-study placeholder; verify the public URL and data-sharing permissions before publishing.
 
----
+## Notes on reuse
 
-### What I Work With
+Each project README documents methods, limitations, and attribution items that still need confirmation before public release. Visuals and source credits should be reviewed against the authoritative source pages before publication.
 
-`R` · `Shiny` · `Tidyverse` · `ggplot2` · `Plotly` · `Leaflet` · `Data Cleaning` · `Data Visualization` · `Exploratory Analysis`
+## Contact
 
----
-
-### About This Work
-
-The NYC 311 dashboard analyzes 2024 service requests from NYC Open Data and presents:
-
-- Complaint patterns across all five boroughs
-- Response-time trends
-- Geographic distributions
-- Reporting channels and responsible agencies
-- The NYC parks receiving the most submissions
-
-The project was created for BIS 412 Advanced Data Visualization at the University of Washington Bothell.
-
----
-
-### Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-SarahVon-181717?style=flat&logo=github)](https://github.com/SarahVon)
+Sarah Von — add verified portfolio, LinkedIn, or contact link here.
