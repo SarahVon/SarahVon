@@ -11,9 +11,9 @@ I use GIS, spatial analysis, and data visualization to turn location-based data 
 
 ## Additional case studies
 
-- **[Bivariate & Uncertainty Dashboard](https://github.com/SarahVon/bivariate-uncertainty-dashboard)** — Case-study placeholder; verify the public URL and data-sharing permissions before publishing.
-- **[Spatial and Temporal Dashboard](https://github.com/SarahVon/spatial-and-temporal-dashboard)** — Case-study placeholder; verify the public URL and data-sharing permissions before publishing.
-- **[Centrality](https://github.com/SarahVon/centrality)** — Case-study placeholder; verify the public URL and data-sharing permissions before publishing.
+- **Bivariate & Uncertainty Dashboard** — Pending case study; link will be added after public-safe packaging and review.
+- **Spatial and Temporal Dashboard** — Pending case study; link will be added after public-safe packaging and review.
+- **Centrality** — Pending case study; link will be added after public-safe packaging and review.
 
 ## Notes on reuse
 
