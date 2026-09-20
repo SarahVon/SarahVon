@@ -6,7 +6,7 @@
 
 ### Summary
 
-I use GIS, spatial analysis, network methods, and data visualization to turn location-based and relationship-based data into clear, careful stories. My portfolio includes map-based screening, transit visualization, community-detection analysis, and interactive dashboards, with an emphasis on transparent methods and documented limitations.
+I use GIS, spatial analysis, network methods, and data visualization to turn location-based and relationship-based data into clear, careful stories. My projects include map-based screening, transit visualization, community-detection analysis, and interactive dashboards, with an emphasis on transparent methods and documented limitations.
 
 ---
 
