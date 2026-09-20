@@ -27,9 +27,9 @@ I use GIS, spatial analysis, network methods, and data visualization to turn loc
 
 | Case study | Status |
 |------------|--------|
-| Bivariate & Uncertainty Dashboard | Link pending public-safe packaging and review |
-| Spatial and Temporal Dashboard | Link pending public-safe packaging and review |
-| Centrality | Link pending public-safe packaging and review |
+| [Bivariate & Uncertainty Dashboard](https://github.com/SarahVon/bivariate-uncertainty-dashboard) | Static King County crime dashboard combining bivariate correlation views, uncertainty bands, and a city-level ten-year average crime map. |
+| [Spatial and Temporal Dashboard](https://github.com/SarahVon/spatial-and-temporal-dashboard) | Static global temperature dashboard comparing 30-year regional averages with a choropleth, time series, and monthly differences from 1901–2016. |
+| [Centrality Network Analysis](https://github.com/SarahVon/centrality-network-analysis) | Exploratory directed teacher-friendship network analysis using igraph, cohesion measures, and in-degree and betweenness visualizations. |
 
 ---
 
