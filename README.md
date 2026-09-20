@@ -14,7 +14,7 @@ I use GIS, spatial analysis, network methods, and data visualization to turn loc
 
 | Project | Description | Type / Stack |
 |---------|-------------|--------------|
-| [Seattle Pest Control Service Patterns](https://github.com/SarahVon/seattle-pest-control-service-patterns) · [Live Posit demonstration](https://01a0bc03-40b2-ca8c-6045-21517970ca76.share.connect.posit.cloud/) | Interactive analysis of Seattle pest-control service patterns; raw or proprietary source data is not included. | R · Posit publication · Read-only demonstration |
+| [Seattle Pest Control Service Patterns](https://github.com/SarahVon/seattle-pest-control-service-patterns) · [Live Posit demonstration](https://01a0bc03-40b2-ca8c-6045-21517970ca76.share.connect.posit.cloud/) | Interactive analysis of Seattle pest activity in 2023. | R · Posit publication · Read-only demonstration |
 
 ---
 
@@ -22,8 +22,8 @@ I use GIS, spatial analysis, network methods, and data visualization to turn loc
 
 | Project | Description | Type / Stack |
 |---------|-------------|--------------|
-| [Hugo Campground Site Screening](https://github.com/SarahVon/hugo-campground-site-screening) | GIS screening workflow near Hugo, Minnesota, combining road proximity, lake proximity, and mapped land-ownership filters to identify areas for further review. | Spatial analysis · ArcGIS Pro |
-| [South King Link Light Rail Corridor Map](https://github.com/SarahVon/south-king-link-light-rail-map) | Historical map of Link light rail stations and rail-segment status from Tukwila International Boulevard Station to Federal Way Downtown Station, using data dated January 31, 2025. | Cartography · ArcGIS Pro |
+| [Hugo Campground Site Screening](https://github.com/SarahVon/hugo-campground-site-screening) | GIS screening workflow near Hugo, Minnesota, combining road proximity, lake proximity, and mapped land-ownership filters to identify areas potentially suitable for campgrounds. | Spatial analysis · ArcGIS Pro |
+| [South King Link Light Rail Corridor Map](https://github.com/SarahVon/south-king-link-light-rail-map) | Map of the Link light rail stations and rail-segment status from Tukwila International Boulevard Station to Federal Way Downtown Station, using data dated January 31, 2025. | Cartography · ArcGIS Pro |
 
 ---
 
@@ -48,8 +48,7 @@ I use GIS, spatial analysis, network methods, and data visualization to turn loc
 
 ### Technical Skills
 
-`GIS` · `ArcGIS Pro` · `Spatial Analysis` · `Cartography` · `R` · `R Markdown` · `igraph` · `asnipe` · `Network Analysis` · `Data Visualization` · `Interactive Dashboards` · `Map Design` · `HTML`
-
+`GIS` · `ArcGIS Pro` · `Spatial Analysis` · `R` · `R Markdown` · `igraph` · `asnipe` · `Network Analysis` · `Data Visualization` · `Interactive Dashboards` · `Map Design` · `HTML`· `Python`· `Java`· `SQL`· `Tableau`· `Excel`· `Power BI`· 
 ---
 
 ### Data Sharing Note
