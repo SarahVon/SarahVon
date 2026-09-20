@@ -1,24 +1,50 @@
-# Sarah Von — GIS, spatial analysis, and data storytelling
+# Sarah Von
 
-I use GIS, spatial analysis, and data visualization to turn location-based data into clear, careful stories. My portfolio highlights selected projects in spatial analysis, network methods, and exploratory storytelling.
+**GIS, spatial analysis, and data storytelling**
 
-## Featured projects
+---
 
-- **[Hugo Campground Site Screening](https://github.com/SarahVon/hugo-campground-site-screening)** — Case-study placeholder for a GIS screening workflow near Hugo, Minnesota, using road proximity, lake proximity, and land-ownership filters. Public repository and final project details should be confirmed before publishing.
-- **[South King Link Light Rail Corridor Map](https://github.com/SarahVon/south-king-link-light-rail-map)** — Case-study placeholder for a January 2025 historical map of station and rail-segment status in South King County. Public repository and final project details should be confirmed before publishing.
-- **[Community Detection Methods](https://github.com/SarahVon/community-detection-methods)** — Case-study placeholder for an R/igraph comparison of Fast Greedy, Edge Betweenness, and Louvain methods on a weighted network. Public repository and final project details should be confirmed before publishing.
-- **[NYC 311 Data Challenge 2025](https://github.com/SarahVon/NYC-311-DATA-CHALLENGE-2025)** — Interactive dashboard exploring NYC 311 service requests across boroughs, complaint categories, reporting channels, agencies, parks, and response times.
+### Summary
 
-## Additional case studies
+I use GIS, spatial analysis, network methods, and data visualization to turn location-based and relationship-based data into clear, careful stories. My portfolio includes map-based screening, transit visualization, community-detection analysis, and interactive dashboards, with an emphasis on transparent methods and documented limitations.
 
-- **Bivariate & Uncertainty Dashboard** — Pending case study; link will be added after public-safe packaging and review.
-- **Spatial and Temporal Dashboard** — Pending case study; link will be added after public-safe packaging and review.
-- **Centrality** — Pending case study; link will be added after public-safe packaging and review.
+---
 
-## Notes on reuse
+### Professional Projects
 
-Each project README documents methods, limitations, and attribution items that still need confirmation before public release. Visuals and source credits should be reviewed against the authoritative source pages before publication.
+| Project | Description | Type / Stack |
+|---------|-------------|--------------|
+| [Hugo Campground Site Screening](https://github.com/SarahVon/hugo-campground-site-screening) | GIS screening workflow near Hugo, Minnesota, combining road proximity, lake proximity, and mapped land-ownership filters to identify areas for further review. | Spatial analysis · ArcGIS Pro |
+| [South King Link Light Rail Corridor Map](https://github.com/SarahVon/south-king-link-light-rail-map) | Historical map of Link light rail stations and rail-segment status from Tukwila International Boulevard Station to Federal Way Downtown Station, using data dated January 31, 2025. | Cartography · ArcGIS Pro |
+| [Community Detection Methods](https://github.com/SarahVon/community-detection-methods) | R/igraph comparison of Fast Greedy, Edge Betweenness, and Louvain methods on a weighted Golden-crowned Sparrow association network. | Network analysis · R · igraph · asnipe |
+| [NYC 311 Data Challenge 2025](https://github.com/SarahVon/NYC-311-DATA-CHALLENGE-2025) | Interactive dashboard exploring NYC 311 service requests across boroughs, complaint categories, reporting channels, agencies, parks, and response times. | Dashboard · Data visualization |
+| [Seattle Pest Control Service Patterns](https://01a0bc03-40b2-ca8c-6045-21517970ca76.share.connect.posit.cloud/) | Hosted Posit publication presenting an interactive analysis of Seattle pest-control service patterns. | Posit publication · Read-only demonstration |
+| [Analyzing Community Detection Methods](https://01a0bbd5-5c89-a860-3c73-6fdd567d84b2.share.connect.posit.cloud/) | Hosted Posit publication for the community-detection methods analysis. | Posit publication · Read-only demonstration |
 
-## Contact
+---
 
-Sarah Von — add verified portfolio, LinkedIn, or contact link here.
+### Additional Case Studies
+
+| Case study | Status |
+|------------|--------|
+| Bivariate & Uncertainty Dashboard | Link pending public-safe packaging and review |
+| Spatial and Temporal Dashboard | Link pending public-safe packaging and review |
+| Centrality | Link pending public-safe packaging and review |
+
+---
+
+### Technical Skills
+
+`GIS` · `ArcGIS Pro` · `Spatial Analysis` · `Cartography` · `R` · `R Markdown` · `igraph` · `asnipe` · `Network Analysis` · `Data Visualization` · `Interactive Dashboards` · `Map Design` · `HTML`
+
+---
+
+### Data Sharing Note
+
+Raw or private datasets are withheld from this profile. Hosted publications may be read-only demonstrations, and project methods, source credits, and limitations should be reviewed against authoritative records before reuse.
+
+---
+
+### Contact
+
+[![GitHub](https://img.shields.io/badge/GitHub-SarahVon-181717?style=flat&logo=github)](https://github.com/SarahVon)
