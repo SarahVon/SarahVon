@@ -1,6 +1,6 @@
 # SarahVon
 
-**Data, maps, and networks made easier to explore**
+**Data, maps, and visualizations made easier to explore**
 
 ---
 
