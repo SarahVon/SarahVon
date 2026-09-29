@@ -14,7 +14,7 @@ I use data to investigate questions, identify patterns, and communicate findings
 
 | Project | Description | Tools / Methods |
 |---------|-------------|--------------|
-| [Seattle Pest Control Service Patterns](https://github.com/SarahVon/seattle-pest-control-service-patterns) · [Live Posit Analysis](https://01a0bc03-40b2-ca8c-6045-21517970ca76.share.connect.posit.cloud/) | Interactive analysis of 2023 service data from a Seattle-area pest-control company, examining operational patterns across time, location, and service characteristics. | R · R Markdown · Exploratory data analysis · Interactive reporting |
+| [Seattle Pest Control Service Patterns](https://github.com/SarahVon/seattle-pest-control-service-patterns) · [Live Posit Analysis](https://01a0eab7-b176-9103-0ac6-0aeca19f42c3.share.connect.posit.cloud/) | Interactive analysis of 2023 service data from a Seattle-area pest-control company, examining operational patterns across time, location, and service characteristics. | R · R Markdown · Exploratory data analysis · Interactive reporting |
 
 ---
 
